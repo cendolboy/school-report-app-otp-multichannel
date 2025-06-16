@@ -2,6 +2,8 @@
 
 ![Tampilan Aplikasi](https://github.com/cendolboy/school-report-app-otp-multichannel/blob/main/Screenshoot.jpeg)
 
+> ▶️ Lihat video lengkap proses pengerjaan dan demonya di sini: [https://youtu.be/p1hRnnUdZcs](https://youtu.be/p1hRnnUdZcs)
+
 Aplikasi **Rapor Digital** untuk sekolah yang dirancang agar wali murid dapat mengakses nilai siswa dengan **login menggunakan nomor HP** yang sudah terdaftar di sekolah, serta **autentikasi OTP multi-channel** yang andal (SMS, WhatsApp, dan Panggilan Suara).
 
 > 🔐 Sistem OTP menggunakan layanan [Fazpass Secure](https://www.fazpass.com) yang mendukung fallback otomatis antar channel jika terjadi kegagalan pengiriman.
